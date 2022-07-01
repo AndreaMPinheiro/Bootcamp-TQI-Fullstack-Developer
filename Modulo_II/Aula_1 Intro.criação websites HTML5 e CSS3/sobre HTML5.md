@@ -4,7 +4,7 @@ Com o HTML definimos o significado e a estrutura do conteúdo da web e, além de
 
 Um elemento HTML é formado pela tag de abertura e seus atributos, o conteúdo e uma tag de fechamento. Mas também pode exirtir elementos que não tem tag de fechamento. 
 
-Com esses elementos podemos agrupar tipos de conteúdo, alterar tamanho e forma de fontes e adicionar diferentes mídias a página da web que criamos. 
+Com esses elementos podemos agrupar tipos de conteúdo, alterar tamanho e forma de fontes e adicionar diferentes mídias a página da web que criamos.
 
 
 
